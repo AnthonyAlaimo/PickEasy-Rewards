@@ -20,8 +20,11 @@ This project contains a loyalty system web app for a start-up called [PickEasy](
 - Spend Tickets to Roll a Random Reward based on your current teir.
 
 
-## Link:
+## Website Link:
 https://pick-easy.herokuapp.com/
+
+## Demo Link:
+https://youtu.be/hVPSmH_nyIA
 
 
 
